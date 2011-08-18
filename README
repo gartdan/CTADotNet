@@ -1,0 +1,12 @@
+Currently we have implemetned the Customer Alerts API for CTA
+
+See more information here: http://www.transitchicago.com/developers/alerts.aspx
+
+API Locations
+ •Route Status API
+http://www.transitchicago.com/api/1.0/routes.aspx
+ Gives the status of a route based on the most significant event presently affecting service on that route, as a well-formed XML document.
+  
+•Detailed Alerts API
+http://www.transitchicago.com/api/1.0/alerts.aspx
+ Gives detailed information about individual alerts, including descriptive text, as a well-formed XML document.
