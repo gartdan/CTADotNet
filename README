@@ -1,5 +1,7 @@
 Currently we have implemetned the Customer Alerts API for CTA
 
+
+
 See more information here: http://www.transitchicago.com/developers/alerts.aspx
 
 API Locations
@@ -10,3 +12,5 @@ http://www.transitchicago.com/api/1.0/routes.aspx
 •Detailed Alerts API
 http://www.transitchicago.com/api/1.0/alerts.aspx
  Gives detailed information about individual alerts, including descriptive text, as a well-formed XML document.
+
+ 
